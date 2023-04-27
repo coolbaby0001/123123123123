@@ -1,0 +1,1 @@
+将dll和exe文件放在C:\Users\Public目录下，然后管理员权限执行ssp_exe，在目录下出现test.txt就是dump出来的文件。
